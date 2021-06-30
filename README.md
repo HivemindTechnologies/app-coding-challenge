@@ -30,8 +30,11 @@ In this challenge you should create a simple app that allows to search movies on
 - If any requirements are unclear, decide for yourself what makes sense and document your assumptions.
 - If you encounter any blockers, don't hesitate to reach out.
 - If you're new to Flutter, here are a few libraries and tools that might help to get started quickly. Of course you decide yourself if you want to use them or not:
+    - <https://flutter.dev/docs/development/ui/widgets> (Flutter widget catalog)
+    - <https://flutter.dev/docs/development/ui/layout/constraints> (Understanding Flutter constraints)
+    - <https://flutter.dev/docs/cookbook/design/themes> (Theming, Colors, font styles)
     - <https://app.quicktype.io/> (generate code for json en/decoding)
-    - <https://pub.dev/packages/freezed> (ADTs for dart)
+    - <https://pub.dev/packages/freezed> (data classes and ADTs for dart)
     - <https://pub.dev/packages/json_serializable> (JSON en/decoding for e.g. freezed)
     - <https://github.com/marcglasberg/fast_immutable_collections> (immutable collections)
     - <https://pub.dev/packages/flutter_hooks> (react-like hooks for state management)
